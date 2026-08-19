@@ -410,3 +410,20 @@ biological-plausibility-neural-representations/
 │
 └── results/
     └── README.md
+
+Reference
+
+This project builds on the context-dependent decision-making framework
+introduced by:
+
+Mante, V., Sussillo, D., Shenoy, K. V., & Newsome, W. T. (2013).
+Context-dependent computation by recurrent dynamics in prefrontal cortex.
+Nature, 503, 78–84.
+
+DOI: 10.1038/nature12742
+
+Paper
+
+The original study demonstrated that recurrent network dynamics can reproduce
+key aspects of context-dependent sensory selection and integration observed
+in prefrontal cortex.
